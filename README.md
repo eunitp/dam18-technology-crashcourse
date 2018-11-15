@@ -1,8 +1,8 @@
-# dam18-technology-crashcourse
+# DAM18
 
 Información y recursos sobre las clases DAM18.
 
-###Session 01
+##Week 01 - Technology crash course
 
   - aws
   - json

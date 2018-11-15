@@ -20,3 +20,15 @@ Useful context:
 - Data for Barcelona destination *(18452212)* is representative, 
 so that any conclusions can be extrapolated for other destinations.
 
+##Answer
+The answer is YES.
+
+I've compared the 2 data sets of August and September, calculating the mean (average) of error queries of the month resulting:
+
+* Error mean August: 4,539357571
+* Error mean September: 3,77 
+
+Error queries have reduced -16%, therefore the team deserves the bonus.
+
+ 
+
